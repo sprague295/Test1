@@ -1,2 +1,3 @@
-# Test1
-Test repository created via Octokit.NET
+# Test1 Repository
+
+This is a test repository created via Octokit.NET.
